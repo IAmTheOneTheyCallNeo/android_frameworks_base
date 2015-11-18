@@ -43,6 +43,9 @@
   <!-- Notification sender text color -->
   <java-symbol type="color" name="sender_text_color" />
 
+  <java-symbol type="drawable" name="ic_audio_notification_new" />
+  <java-symbol type="drawable" name="ic_audio_notification_mute_new" />
+
   <java-symbol type="string" name="config_deviceKeyHandlerLib" />
   <java-symbol type="string" name="config_deviceKeyHandlerClass" />
 </resources>
